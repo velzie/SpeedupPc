@@ -1,7 +1,4 @@
 <div id="top"></div>
-[![Stargazers][stars-shield]][stars-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -42,6 +39,3 @@ Most of this program is powered by Unetbootin and PsExec. both programs are used
 
 * [PsExec](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
 * [Unetbootin](https://github.com/unetbootin/unetbootin)
-
-<!-- <p align="right">(<a href="#top">back to top</a>)</p> -->
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
