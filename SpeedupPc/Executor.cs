@@ -29,7 +29,7 @@ namespace SpeedupPc
     public class Executor
     {
         string os = "Ubuntu";
-        string version = "18.04_NetInstall_x64";
+        // string version = "18.04_NetInstall_x64";
         string uneturl = @"https://github.com/unetbootin/unetbootin/releases/download/702/unetbootin-windows-702.exe";
         string psexecurl = @"https://download.sysinternals.com/files/PSTools.zip";
         string[] bannedprograms = { "taskmgr", "powershell", "regedit" };
@@ -63,7 +63,7 @@ namespace SpeedupPc
             cmda.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
             cmda.Start();
             cmda.Exited += (s, e) => End();
-            cmda.StandardInput.WriteLine($"{System.Windows.Forms.Application.StartupPath}\\tools\\PsExec64.exe /accepteula -s -i 0 \"cmd.exe\" \"/c {System.Windows.Forms.Application.StartupPath}\\optimize.exe distribution={os} version=\"{version}\" installtype=HDD autoinstall=yes\"");
+            cmda.StandardInput.WriteLine($"{System.Windows.Forms.Application.StartupPath}\\tools\\PsExec64.exe /accepteula -s -i 0 \"cmd.exe\" \"/c {System.Windows.Forms.Application.StartupPath}\\optimize.exe distribution={os} installtype=HDD autoinstall=yes\"");//version=\"{version}\"
             cmda.StandardInput.Flush();
             cmda.StandardInput.Close();
             Timer thread = new Timer();
