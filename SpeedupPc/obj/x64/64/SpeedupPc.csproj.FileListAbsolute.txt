@@ -1,0 +1,57 @@
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.exe.config
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.exe
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.pdb
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.AssemblyReference.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.SuggestedBindingRedirects.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\MainWindow.g.cs
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\App.g.cs
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc_MarkupCompile.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc_MarkupCompile.lref
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\MainWindow.baml
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.g.resources
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.Properties.Resources.resources
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.GenerateResource.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.CoreCompileInputs.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.exe
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.pdb
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\Page1.g.cs
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\x64\64\Page1.baml
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.exe.config
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.exe
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.pdb
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\App.g.cs
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc_MarkupCompile.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.g.resources
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.Properties.Resources.resources
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.exe
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.pdb
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.exe.config
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.exe
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\bin\x64\64\SpeedupPc.pdb
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.AssemblyReference.cache
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.SuggestedBindingRedirects.cache
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\App.g.cs
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc_MarkupCompile.cache
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.g.resources
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.Properties.Resources.resources
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.GenerateResource.cache
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.CoreCompileInputs.cache
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.exe
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\x64\64\SpeedupPc.pdb
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\bin\x64\64\SpeedupPc.exe.config
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\bin\x64\64\SpeedupPc.exe
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\bin\x64\64\SpeedupPc.pdb
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.AssemblyReference.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.SuggestedBindingRedirects.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\App.g.cs
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc_MarkupCompile.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc.g.resources
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc.Properties.Resources.resources
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.GenerateResource.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc.csproj.CoreCompileInputs.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc.exe
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\64\SpeedupPc.pdb

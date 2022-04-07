@@ -1,0 +1,38 @@
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\bin\Debug\SpeedupPc.exe.config
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\bin\Debug\SpeedupPc.exe
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\bin\Debug\SpeedupPc.pdb
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.AssemblyReference.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.SuggestedBindingRedirects.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\MainWindow.g.cs
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\App.g.cs
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc_MarkupCompile.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc_MarkupCompile.lref
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\MainWindow.baml
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.g.resources
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.Properties.Resources.resources
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.GenerateResource.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.CoreCompileInputs.cache
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.exe
+C:\Users\ce\source\repos\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.pdb
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\bin\Debug\SpeedupPc.exe.config
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\bin\Debug\SpeedupPc.exe
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\bin\Debug\SpeedupPc.pdb
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\Page1.g.cs
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc_MarkupCompile.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc_MarkupCompile.lref
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\Page1.baml
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.g.resources
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.Properties.Resources.resources
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.exe
+\\vmware-host\Shared Folders\fold\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.pdb
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.AssemblyReference.cache
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.csproj.SuggestedBindingRedirects.cache
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.exe
+C:\Users\ce\Desktop\sfoldz\SpeedupPc\SpeedupPc\obj\Debug\SpeedupPc.pdb

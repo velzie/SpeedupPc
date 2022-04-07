@@ -1,0 +1,13 @@
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\bin\x64\Debug\SpeedupPc.exe.config
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\bin\x64\Debug\SpeedupPc.exe
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\bin\x64\Debug\SpeedupPc.pdb
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc.csproj.AssemblyReference.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc.csproj.SuggestedBindingRedirects.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\App.g.cs
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc_MarkupCompile.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc.g.resources
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc.Properties.Resources.resources
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc.csproj.GenerateResource.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc.csproj.CoreCompileInputs.cache
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc.exe
+C:\Users\ce\Desktop\speeduppc\SpeedupPc\obj\x64\Debug\SpeedupPc.pdb
